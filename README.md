@@ -8,6 +8,11 @@ Developed for the course **Advanced Machine Learning (ACA)** of the **Master’s
 
 ---
 
+### GAN Generated images
+<img width="339" alt="image" src="https://github.com/user-attachments/assets/62a82e11-4a41-4afa-9a98-7507464dbd84" />
+### AutoEncoder Generated images
+
+
 ## 🎯 Goal
 
 To compare and evaluate the impact of data augmentation using **AutoEncoders (AEs)** and **Generative Adversarial Networks (GANs)** on the performance of a base **CNN classifier**.
