@@ -4,7 +4,7 @@ This project explores the use of **generative models** to **augment a dataset of
 Developed for the course **Advanced Machine Learning (ACA)** of the **Master’s in Engineering and Data Science**, University of Coimbra (2023/2024).
 
 > **Project Title:** *Do you need more signs?*  
-> **Authors:** Gonçalo Bastos · Leonardo Cordeiro
+> **Authors:** Gonçalo Bastos - eusoudebastos@gmail.com · Leonardo Cordeiro - leoleocordeiro@gmail.com
 
 ---
 
