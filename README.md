@@ -11,7 +11,7 @@ Developed for the course **Advanced Machine Learning (ACA)** of the **Master’s
 ### GAN Generated images
 <img width="339" alt="image" src="https://github.com/user-attachments/assets/62a82e11-4a41-4afa-9a98-7507464dbd84" />
 ### AutoEncoder Generated images
-
+<img width="339" alt="image" src="https://github.com/user-attachments/assets/e33c0d4c-ecaf-4df1-9507-59e4b76f1afd" />
 
 ## 🎯 Goal
 
