@@ -25,10 +25,9 @@ To compare and evaluate the impact of data augmentation using **AutoEncoders (AE
 
 ## 📁 Files Included
 
-- `Do_you_need_more_signs.pdf`: Project report with all methodology and results  
+- `/notebooks`: Project report with all methodology and results  
 - `Code_Final.ipynb`: Implementation notebook (training AE, GAN and CNN)  
 - `data-students.rar`: Provided dataset (extract to `./data/`)  
-- `results/`: Generated samples, training curves, and final plots
 
 ---
 
