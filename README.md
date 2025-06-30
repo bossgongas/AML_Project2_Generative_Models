@@ -47,10 +47,3 @@ To compare and evaluate the impact of data augmentation using **AutoEncoders (AE
 - **CNN + AE Augmented Data** → ↑ modest improvement  
 - **CNN + GAN Samples** → ↑ best performance improvement
 
----
-
-## 📂 How to Run
-
-1. Extract dataset:
-   ```bash
-   mkdir data && unrar x data-students.rar ./data/
