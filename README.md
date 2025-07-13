@@ -1,7 +1,7 @@
 # 🧠 Generative Models for Traffic Sign Augmentation – ACA Project 2
 
 This project explores the use of **generative models** to **augment a dataset of traffic signs** and improve classification performance.  
-Developed for the course **Advanced Machine Learning (ACA)** of the **Master’s in Engineering and Data Science**, University of Coimbra (2023/2024).
+Developed for the course **Advanced Machine Learning (AML)** of the **Master’s in Engineering and Data Science**, University of Coimbra (2023/2024).
 
 > **Project Title:** *Do you need more signs?*  
 > **Authors:** Gonçalo Bastos - eusoudebastos@gmail.com · Leonardo Cordeiro - leoleocordeiro@gmail.com
